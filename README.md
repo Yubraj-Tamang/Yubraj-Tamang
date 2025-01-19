@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating projects and learning every day since I started my journey in tech!<br>📚 I'm currently learning Data Science and expanding my skills in Python, Pandas, NumPy, Seaborn, Matplotlib, and Machine Learning.<br>🎯 Goals: Become a skilled Data Scientist and solve real-world problems with data.<br>🎲 Fun fact: I love visualizing data as colorful stories that make complex information easy to understand.</p>
+<p align="left">✨ Creating projects and learning every day since I started my journey in tech!<br>📚 I'm currently learning Data Science and expanding my skills in Python, Pandas, NumPy, Seaborn, Matplotlib, and Machine Learning.<br>🎯 Goals: Become a skilled Data Scientist and solve real-world problems with data.<br>📈 Fun fact: I love visualizing data as colorful stories that make complex information easy to understand.</p>
 
 ###
 

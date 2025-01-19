@@ -39,5 +39,5 @@
 <p align="left">
 <a href="https://www.kaggle.com/
 yubraj00" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" /></a>
-<a href="https://linkedin.com/in/[YourLinkedInProfile]" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
+<a href="https://linkedin.com/in/yubraj-tamang" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
 </p>

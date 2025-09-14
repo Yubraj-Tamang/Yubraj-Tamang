@@ -4,7 +4,7 @@
 
 ### About Me  
 I am a Machine Learning Engineer from Nepal with a strong interest in artificial intelligence, data science, and financial technology.  
-Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln University College, NCMT College, I specialize in applying machine learning techniques to solve real-world problems. My goal is to bridge the gap between raw data and impactful insights through advanced analytics and intelligent systems.
+Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln University College, NCMT College, I specialize in applying machine learning techniques to solve real world problems. My goal is to bridge the gap between raw data and impactful insights through advanced analytics and intelligent systems.
 
 ---
 

@@ -17,16 +17,6 @@ Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln Univer
 
 ---
 
-### Projects  
-- **House Price Prediction** – Regression model for estimating housing prices.  
-- **Smart Krishi Sathi** – Farmer assistant system with weather forecasts, crop recommendations, and market insights.  
-- **Pest Alert via Plant Sound & Soil Vibration** – IoT + AI system for early pest detection.  
-- **Medication Identification App** – Hybrid image and text-based solution for pill recognition and drug information.  
-
-(Explore more in my repositories.)
-
----
-
 ### Currently Exploring  
 - Advanced Machine Learning and Deep Learning  
 - Computer Vision (YOLO, CNNs)  
@@ -35,10 +25,10 @@ Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln Univer
 
 ---
 
-### Contact  
-- Email: yt60015@gmail.com  
-- GitHub: [github.com/Yubraj-Tamang](https://github.com/Yubraj-Tamang)  
-- LinkedIn: [LinkedIn Profile](#)  
+### Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
 

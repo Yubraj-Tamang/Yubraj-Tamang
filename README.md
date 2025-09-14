@@ -4,7 +4,7 @@
 
 ### About Me  
 I am a Machine Learning Engineer from Nepal with a strong interest in artificial intelligence, data science, and financial technology.  
-Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln University College, NCMT College, I specialize in applying machine learning techniques to solve real world problems. My goal is to bridge the gap between raw data and impactful insights through advanced analytics and intelligent systems.
+Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln University College, NCMT College, I specialize in applying machine learning techniques to solve real-world problems. My goal is to bridge the gap between raw data and impactful insights through advanced analytics and intelligent systems.
 
 ---
 
@@ -27,8 +27,9 @@ Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln Univer
 
 ### Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yubraj-tamang)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.tamangyubraj.com.np)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yt60015@gmail.com)  
 
 ---
 
